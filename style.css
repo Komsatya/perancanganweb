@@ -1,0 +1,11 @@
+body {
+    background-image:url(elegan.jpg);
+}
+
+.container {
+    width: 30%;
+    margin-top: 11%;
+    box-shadow: 0 3px 20px black;
+    padding:40px;
+    background-color:#FFFF;
+}
